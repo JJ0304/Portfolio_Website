@@ -27,6 +27,15 @@ export const projects = [
     id: 2,
   },
   {
+    title: 'Firebase Cloud Messaging App',
+    description: "Firebase Cloud Messaging (FCM) is a cross-platform messaging solution from Google that allows app developers to send notifications and messages to users on Android, iOS, and web. The FCM app serves as a central hub for sending messages and notifications to users, enabling developers to target specific audience segments and send personalized messages.",
+    image: '/images/5.png',
+    tags: ['Firbase', 'Java', 'Android Studio' ],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 3,
+  },
+  {
     title: 'Jeopardy Application',
     description: "Jeopardy game application is a digital version of the popular TV quiz show. The app simulates the experience of playing Jeopardy, offering users a chance to test their knowledge on various categories such as history, science, literature, and pop culture. The app features a game board with multiple categories and dollar amounts, and users select a category and dollar amount to answer a question.",
     image: '/images/4.jpg',
