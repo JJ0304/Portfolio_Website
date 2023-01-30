@@ -12,7 +12,7 @@ export const projects = [
     title: 'The Next Generation Payment Method',
     description:"A next-generation payment method application is a software tool that facilitates the use of advanced payment methods, such as digital wallets, biometric authentication, and blockchain technology. The application is designed to be user-friendly and secure, offering a seamless payment experience for both consumers and merchants.",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
+    tags: ['React', 'JavaScript', 'HTML', 'CSS'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 1,
