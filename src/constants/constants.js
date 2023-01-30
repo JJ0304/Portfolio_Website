@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'SneakPeek Application',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "SneakPeek is a sneaker release calendar application is a tool for sneaker enthusiasts to stay up-to-date on the latest sneaker releases from their favorite brands. The app provides a comprehensive and regularly updated calendar of upcoming sneaker releases, including information on the style, colorway, price, and availability.",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
