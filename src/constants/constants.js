@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Face Recognition App',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "Face recognition app is a technology-based application that identifies individuals from images or videos by comparing facial features of the subject with a database of stored faces. The app typically uses deep learning algorithms to analyze the facial features, extract relevant information, and match it with the stored images.",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://google.com',
