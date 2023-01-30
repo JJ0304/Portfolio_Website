@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Jeopardy Application',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "Jeopardy game application is a digital version of the popular TV quiz show. The app simulates the experience of playing Jeopardy, offering users a chance to test their knowledge on various categories such as history, science, literature, and pop culture. The app features a game board with multiple categories and dollar amounts, and users select a category and dollar amount to answer a question.",
     image: '/images/4.jpg',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://google.com',
