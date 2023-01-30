@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'The Next Generation Payment Method',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description:"A next-generation payment method application is a software tool that facilitates the use of advanced payment methods, such as digital wallets, biometric authentication, and blockchain technology. The application is designed to be user-friendly and secure, offering a seamless payment experience for both consumers and merchants.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
