@@ -17,7 +17,7 @@ const Hero = (props) => (
         Software Engineering Graduate with IoT Specialization <br /> from Ontario Tech University.
       </SectionText>
       
-      <Button onClick={() => window.location = 'http://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'mailto:janajan0129@gmail.com'}>Contact</Button>
     </LeftSection>
   </Section>
 );
