@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Face Recognition App',
     description: "Face recognition app is a technology-based application that identifies individuals from images or videos by comparing facial features of the subject with a database of stored faces. The app typically uses deep learning algorithms to analyze the facial features, extract relevant information, and match it with the stored images.",
-      image: './Portfolio_Website/images/1.png',
+      image: 'http://jj0304.github.io/Portfolio_Website/images/1.png',
       tags: ['Python', 'Django',],
     source: 'https://github.com/JJ0304/FaceRecognitionApp',
     visit: 'https://github.com/JJ0304/FaceRecognitionApp',
