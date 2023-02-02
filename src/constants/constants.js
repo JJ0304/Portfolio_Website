@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'SneakPeek Application',
     description: "SneakPeek is a sneaker release calendar application is a tool for sneaker enthusiasts to stay up-to-date on the latest sneaker releases from their favorite brands. The app provides a comprehensive and regularly updated calendar of upcoming sneaker releases, including information on the style, colorway, price, and availability.",
-      image: '/images/3.jpg',
+      image: '/images/3.png',
       tags: ['React', 'JavaScript', 'HTML', 'CSS'],
     source: 'https://github.com/JJ0304/sneakpeek_application',
     visit: 'https://github.com/JJ0304/sneakpeek_application',
